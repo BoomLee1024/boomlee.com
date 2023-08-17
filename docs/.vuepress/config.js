@@ -24,9 +24,9 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
       {
-        text: '指南', link: '/pages/a2f161/', items: [
-          { text: '主题初衷与诞生', link: '/pages/52d5c3/' },
-          { text: '介绍', link: '/pages/a2f161/' },
+        text: '面试大全', link: '/pages/a2f161/', items: [
+          { text: 'Hadoop 基础', link: '/pages/hadoop_base/' },
+          { text: 'HDFS 部分', link: '/pages/a2f161/' },
           {
             text: '相关文章', items: [
               { text: '使目录栏支持h2~h6标题', link: '/pages/8dfab5/' },
